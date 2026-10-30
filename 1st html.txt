@@ -1,0 +1,21 @@
+
+ <!DOCTYPE html>
+ <html> 
+<head>
+ <title>Ordered List Example</title>
+ </head> 
+<body>
+ <h1>Ordered List Demo</h1>
+ <p>My Friends </p>
+ <ol> 
+<li>Lokesh</li> 
+<li>Rahul</li>
+ <li>Yashwanth </li>
+ <li>Vivek</li> 
+<li>Ajitha</li>
+ <li>Sushma</li>
+ <li>Likhitha</li>
+ <li>Kalesh</li> 
+</ol>
+ </body>
+ </html>
